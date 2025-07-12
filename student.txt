@@ -1,0 +1,3 @@
+Mickey_19|MickeyKun28@.|Manjiro|Sano|19|Male|0.00
+shinchiro_25|Shinchirosano25@.|Shinchiro|Sano|25|Male|0.00
+John_Doe|John1234@.|John|Doe|18|Male|0.00
